@@ -1,3 +1,7 @@
+## 赞助
+本项目 CDN 加速及安全防护由 [Tencent EdgeOne](https://edgeone.ai/zh?from=github) 赞助
+[![image](https://github.com/user-attachments/assets/9211a407-9b9e-478a-96f3-0828fcf94705)](https://edgeone.ai/zh?from=github)
+
 ## vue-json-schema-form
 
 基于 Vue2 / Vue3、 [JSON Schema](https://json-schema.org/understanding-json-schema/index.html) 生成带完整校验的Form表单，你的 :star2: :star2: :star2: 就是最大的支持
