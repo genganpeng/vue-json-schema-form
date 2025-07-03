@@ -1,3 +1,16 @@
+# 编译
+## 环境
+nodejs v12.22.9, yarn1.22.22
+nvm list
+nvm use
+每个nodejs版本对应不同的yarn版本
+## 编译
+```shell
+yarn install
+yarn run demo:build
+yarn run demo3:build
+```
+
 ## 赞助
 本项目 CDN 加速及安全防护由 [Tencent EdgeOne](https://edgeone.ai/zh?from=github) 赞助
 [![image](https://github.com/user-attachments/assets/9211a407-9b9e-478a-96f3-0828fcf94705)](https://edgeone.ai/zh?from=github)
